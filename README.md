@@ -1,4 +1,4 @@
-# 🚗 Car Rental Frontend - Sistema de Alquiler de Vehículos Ecuador
+# 🚗 Car Rental Frontend - Sistema de Alquiler de Vehículos (AutoPick)
 
 Sistema frontend para la gestión de alquiler de vehículos en Ecuador. Esta aplicación permite a los usuarios buscar, reservar y alquilar vehículos de manera fácil y rápida, mientras que los administradores y empleados pueden gestionar el inventario de vehículos, clientes, reservas y pagos.
 
@@ -122,17 +122,28 @@ La aplicación maneja tres roles con diferentes permisos:
 
 ## 👥 Colaboradores
 
-Agradecemos a todos los que han contribuido a este proyecto:
-
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/JaviFiallos">
+        <img src="https://github.com/JaviFiallos.png" width="100px;" alt="Edison Fiallos"/><br />
+        <sub><b>Edison Fiallos</b></sub>
+      </a><br />
+      <sub>💻 Desarrollador Frontend</sub>
+    </td>
+     <td align="center">
       <a href="https://github.com/IAlexLizano">
         <img src="https://github.com/IAlexLizano.png" width="100px;" alt="Alex Lizano"/><br />
         <sub><b>Alex Lizano</b></sub>
       </a><br />
-      <sub>📧 alexsanty10lm@gmail.com</sub><br />
-      <sub>💻 Desarrollador Principal</sub>
+      <sub>💻 Desarrollador Full Stack</sub>
+    </td>
+     <td align="center">
+      <a href="https://github.com/TicheKiwar">
+        <img src="https://github.com/TicheKiwar.png" width="100px;" alt="Kiwar Tiche"/><br />
+        <sub><b>Kiwar Tiche</b></sub>
+      </a><br />
+      <sub>💻 Desarrollador Full Stack</sub>
     </td>
   </tr>
 </table>
@@ -150,14 +161,6 @@ Si deseas contribuir al proyecto:
 3. Realiza tus cambios y haz commit (`git commit -m 'Agregar nueva funcionalidad'`)
 4. Push a la rama (`git push origin feature/nueva-funcionalidad`)
 5. Abre un Pull Request
-
-## 📞 Soporte
-
-Si tienes alguna pregunta o problema, puedes contactar al desarrollador principal:
-- **Email**: alexsanty10lm@gmail.com
-- **GitHub**: [@IAlexLizano](https://github.com/IAlexLizano)
-
----
 
 <p align="center">
   Desarrollado con ❤️ en Ecuador 🇪🇨
